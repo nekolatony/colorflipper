@@ -1,0 +1,27 @@
+h2{
+    background-color: black;
+    font-size: larger;
+    border-width: 1em;
+    border-radius: 1rem;
+    justify-content: center;
+    justify-items: center;
+    width: fit-content;
+    text-align: center;
+    color: aliceblue;
+
+}
+section{
+background-color: aliceblue;
+}
+nav{
+    background-color: burlywood;
+}
+
+#btn{
+    width: fit-content;
+    font-size: larger;
+}
+
+.body{
+    align-content: center;
+}
